@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+*,body{
+    margin: 0px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.card{
+    background-color: black;
+    color: whitesmoke;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.col-sm-3{
+    padding: 0px;
+}
+
+h5{
+    font-size: 30px;
+}
+
+p{
+    font-size: 35px;
+}
